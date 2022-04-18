@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Argha</h1>
-<h3 align="center">I Am, a Certified Data scientist , with hands-on experience of more than 1year,on Python Programming> ML> NLP> SQL. Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve the target. I am always on the lookout for new projects to work And Am Always Happy ☻ To Play With Data</h3>
+<h3 align="center">I am a Certified Data scientist , with hands-on experience of more than 1year,on Python Programming> ML> NLP> SQL. Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve the target. I am always on the lookout for new projects to work And Am Always Happy ☻ To Play With Data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=argha-test&label=Profile%20views&color=0e75b6&style=flat" alt="argha-test" /> </p>
 
